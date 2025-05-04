@@ -105,15 +105,7 @@ export const Contact = () => {
           {/* Social Icons */}
           <div className="social-links">
             <a
-              href="https://github.com/ani1999deep"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="social-icon-link"
-            >
-              <FontAwesomeIcon icon={faGithub} className="social-icon" />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/anideepofficial/"
+              href="https://www.linkedin.com/in/sougata-mitra-qa-delivery/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon-link"
