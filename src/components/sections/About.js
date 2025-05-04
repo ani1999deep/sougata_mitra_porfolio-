@@ -98,7 +98,7 @@ export const About = () => {
 
           <div className="about-card">
             <p className="about-description">
-              Accomplished IT leader with 20+ years of experience in enterprise
+              Accomplished IT leader with 19 years of experience in enterprise
               software testing, QA strategy, and system integration across
               global domains. Specialized in Salesforce (Service & Sales Cloud),
               MuleSoft, and API testing using tools like Postman, Selenium, and
@@ -316,11 +316,6 @@ export const About = () => {
                     Tech Lead - Testing at Exavalu Solutions India Pvt. Ltd.
                     (February 2020 – Present)
                   </h4>
-                  {/* <p>
-                    Maintained and optimized scalable APIs using Node.js,
-                    Express, and MongoDB. Ensured secure handling of sensitive
-                    user data.
-                  </p> */}
                 </div>
 
                 <div>
@@ -329,10 +324,6 @@ export const About = () => {
                     Analyst) at SREI (Kanoria Foundation) (April 2010 – January
                     2020)
                   </h4>
-                  {/* <p>
-                    Built an SPA admin dashboard using React and Redux,
-                    improving UX and development efficiency.
-                  </p> */}
                 </div>
 
                 <div>
@@ -340,11 +331,32 @@ export const About = () => {
                     Test & Support Engineer at Web Spiders (India) Pvt. Ltd.
                     (January 2006 – March 2010)
                   </h4>
-                  {/* <p>
-                    Delivered PLC/HMI-based automation solutions. Worked on
-                    sensor integrations, AutoCAD I/O mapping, and electrical
-                    panel commissioning.
-                  </p> */}
+                </div>
+              </div>
+
+              <h3 className="info-title">
+                📚 Other Experience including Initial Training
+              </h3>
+              <div className="info-text">
+                <div>
+                  <h4 className="info-role">
+                    Trainee Test Engineer at Software Testing Solutions Pvt. Ltd
+                    (July 2004 – February 2005)
+                  </h4>
+                </div>
+
+                <div>
+                  <h4 className="info-role">
+                    Trainee Software Engineer at Mongaldeep Infotech &
+                    Consultancy Services (March 2005 – August 2005)
+                  </h4>
+                </div>
+
+                <div>
+                  <h4 className="info-role">
+                    Asst. MIS & Tech Support Executive at ITC Ltd. LRBD
+                    (September 2005 – December 2005)
+                  </h4>
                 </div>
               </div>
             </div>
