@@ -11,7 +11,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="container">
         <div className="nav-content">
           <a href="#home" className="logo">
-            sougata<span className="logo-highlight">.tech</span>
+            sougata<span className="logo-highlight">.qulity delivery</span>
           </a>
 
           <div
