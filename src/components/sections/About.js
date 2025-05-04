@@ -83,6 +83,13 @@ export const About = () => {
     "SQL scripting for backend testing",
   ];
 
+  const certifications = [
+    "Information Security Management System by BS ISO/IEC 27001:2005",
+    "Cyber Sentinel Training (Certification on Cyber Security)",
+    "Professional Scrum Master 1 by Scrum.Org",
+    "Certified Tricentis Tosca Consultant",
+  ];
+
   return (
     <section id="about" className="about-section">
       <RevealOnScroll>
@@ -285,6 +292,19 @@ export const About = () => {
                   <strong>Bachelor of Science (B.Sc)</strong> – Burdwan
                   University (WB) (1998 – 2001)
                 </li>
+              </ul>
+
+              <h3 className="info-title">🎓 Certifications</h3>
+              <ul className="info-list">
+                <li>
+                  Information Security Management System by BS ISO/IEC
+                  27001:2005
+                </li>
+                <li>
+                  Cyber Sentinel Training (Certification on Cyber Security)
+                </li>
+                <li>Professional Scrum Master 1 by Scrum.Org</li>
+                <li>Certified Tricentis Tosca Consultant</li>
               </ul>
             </div>
 
