@@ -278,16 +278,12 @@ export const About = () => {
               <h3 className="info-title">🏫 Education</h3>
               <ul className="info-list">
                 <li>
-                  <strong>
-                    B.Tech in Applied Electronics and Instrumentation
-                    Engineering
-                  </strong>{" "}
-                  - Future Institute of Engineering and Management (August 2017
-                  – July 2021)
+                  <strong>G-Tech – 2 Year Diploma in Software</strong> – TATA
+                  Infotech (2001 – 2003)
                 </li>
                 <li>
-                  Relevant Coursework: Digital Electronics, Microprocessors,
-                  Control Systems, DBMS, C Programming...
+                  <strong>Bachelor of Science (B.Sc)</strong> – Burdwan
+                  University (WB) (1998 – 2001)
                 </li>
               </ul>
             </div>
