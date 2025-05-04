@@ -296,14 +296,14 @@ export const About = () => {
 
               <h3 className="info-title">🎓 Certifications</h3>
               <ul className="info-list">
+                <li>Professional Scrum Master 1 by Scrum.Org</li>
+                <li>
+                  Cyber Sentinel Training (Certification on Cyber Security)
+                </li>
                 <li>
                   Information Security Management System by BS ISO/IEC
                   27001:2005
                 </li>
-                <li>
-                  Cyber Sentinel Training (Certification on Cyber Security)
-                </li>
-                <li>Professional Scrum Master 1 by Scrum.Org</li>
                 <li>Certified Tricentis Tosca Consultant</li>
               </ul>
             </div>
@@ -313,48 +313,38 @@ export const About = () => {
               <div className="info-text">
                 <div>
                   <h4 className="info-role">
-                    Node.js Developer Intern at Excellis IT Pvt. Ltd (July 2024
-                    – Sept 2024)
+                    Tech Lead - Testing at Exavalu Solutions India Pvt. Ltd.
+                    (February 2020 – Present)
                   </h4>
-                  <p>
-                    Developed a full-fledged e-commerce platform using React.js
-                    and Node.js. Created REST APIs, user authentication, and
-                    MongoDB database integration.
-                  </p>
-                </div>
-
-                <div>
-                  <h4 className="info-role">
-                    Backend Developer Intern at Specstem Digital Pvt. Ltd. (Jan
-                    2023 – July 2024)
-                  </h4>
-                  <p>
+                  {/* <p>
                     Maintained and optimized scalable APIs using Node.js,
                     Express, and MongoDB. Ensured secure handling of sensitive
                     user data.
-                  </p>
+                  </p> */}
                 </div>
 
                 <div>
                   <h4 className="info-role">
-                    React.js Developer at Esolz Technologies Pvt. Ltd. (Nov 2022
-                    – May 2023)
+                    Senior Associate (Sr. Team Lead Testing and Business
+                    Analyst) at SREI (Kanoria Foundation) (April 2010 – January
+                    2020)
                   </h4>
-                  <p>
+                  {/* <p>
                     Built an SPA admin dashboard using React and Redux,
                     improving UX and development efficiency.
-                  </p>
+                  </p> */}
                 </div>
 
                 <div>
                   <h4 className="info-role">
-                    Service Engineer at Penta Automation (Dec 2021 – June 2022)
+                    Test & Support Engineer at Web Spiders (India) Pvt. Ltd.
+                    (January 2006 – March 2010)
                   </h4>
-                  <p>
+                  {/* <p>
                     Delivered PLC/HMI-based automation solutions. Worked on
                     sensor integrations, AutoCAD I/O mapping, and electrical
                     panel commissioning.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </div>
