@@ -2,7 +2,7 @@ import { useState } from "react";
 import { RevealOnScroll } from "../RevealOnScroll";
 import emailjs from "@emailjs/browser";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import "../../css/Contact.css";
 import Swal from "sweetalert2";
 
@@ -28,7 +28,7 @@ export const Contact = () => {
           title: "Success!",
           text: "Your message has been sent successfully.",
           icon: "success",
-          timer: 2000,
+          timer: 3000,
           timerProgressBar: true,
           showConfirmButton: false,
         });
