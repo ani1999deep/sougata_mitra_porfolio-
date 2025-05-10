@@ -69,3 +69,20 @@
     display: none;
   }
 }
+
+.logo-image {
+  height: 32px;
+  width: 32px;
+  object-fit: cover;
+  border-radius: 50%; /* makes it round */
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* Optional: Make logo responsive on smaller screens */
+@media (max-width: 480px) {
+  .logo-image {
+    height: 24px;
+    width: 24px;
+  }
+}

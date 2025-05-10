@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import "../css/Navbar.css";
+import logo from "../components/assets/ps1.png"; // adjust path if needed
 
 export const Navbar = ({ menuOpen, setMenuOpen }) => {
   useEffect(() => {
@@ -11,6 +12,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
       <div className="container">
         <div className="nav-content">
           <a href="#home" className="logo">
+            <img src={logo} alt="Logo" className="logo-image" />
             sougata<span className="logo-highlight">.qulity delivery</span>
           </a>
 
