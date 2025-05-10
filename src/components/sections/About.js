@@ -340,8 +340,8 @@ export const About = () => {
               <div className="info-text">
                 <div>
                   <h4 className="info-role">
-                    Trainee Test Engineer at Software Testing Solutions Pvt. Ltd
-                    (July 2004 – February 2005)
+                    Asst. MIS & Tech Support Executive at ITC Ltd. LRBD
+                    (September 2005 – December 2005)
                   </h4>
                 </div>
 
@@ -354,8 +354,8 @@ export const About = () => {
 
                 <div>
                   <h4 className="info-role">
-                    Asst. MIS & Tech Support Executive at ITC Ltd. LRBD
-                    (September 2005 – December 2005)
+                    Trainee Test Engineer at Software Testing Solutions Pvt. Ltd
+                    (July 2004 – February 2005)
                   </h4>
                 </div>
               </div>
