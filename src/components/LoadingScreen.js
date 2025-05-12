@@ -3,7 +3,7 @@ import "../css/LoadingScreen.css";
 
 export const LoadingScreen = ({ onComplete = () => {} }) => {
   const [text, setText] = useState("");
-  const fullText = "<Hello World />";
+  const fullText = "<Qulity Delivery/>";
 
   useEffect(() => {
     let index = 0;
